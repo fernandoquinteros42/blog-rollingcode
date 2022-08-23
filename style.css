@@ -1,0 +1,14 @@
+body{
+    background: url(https://www.logitheque.com/es/wp-content/uploads/sites/7/2019/07/netflix-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.big-none{
+    height: 100px;
+}
+.login-content{
+    width: 500px;
+    height: 600px;
+    display: block;
+   border-radius: 5px;
+    }
